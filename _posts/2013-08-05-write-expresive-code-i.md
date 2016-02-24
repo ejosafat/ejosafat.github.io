@@ -5,7 +5,6 @@ date:   2013-08-05
 categories: 2013 
 tags: other 
 permalink: write-expressive-code-I 
-published: true
 ---
 # Write expressive code (I)
 When you work in a large project with many programmers, it's frequent to be assigned a task involving code written by another guy. It's pretty nice to find a clean code understandable at first glance, where the intention of each line is explained by itself but…
