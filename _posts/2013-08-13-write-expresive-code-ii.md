@@ -8,7 +8,7 @@ permalink: write-expressive-code-II
 ---
 # Express your intention (II)
 
-Folowing on [the previous article](http://{{ site.github.url }}/write-expressive-code-I) about expressive code, let's see how you can clarify those typically nested javascript callback functions.
+Folowing on [the previous article]({{ site.github.url }}/write-expressive-code-I) about expressive code, let's see how you can clarify those typically nested javascript callback functions.
 
 > *Be expressive, my friend.*
 > *(Unknown Jedi Fu Master)*
