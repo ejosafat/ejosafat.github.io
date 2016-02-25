@@ -2,7 +2,7 @@
 layout: post
 title:  "Write expressive code (I)"
 date:   2013-08-05
-categories: 2013 
+categories: '2013' 
 tags: other 
 permalink: write-expressive-code-I 
 ---
